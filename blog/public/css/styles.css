@@ -1,0 +1,7 @@
+.MenuThumb{
+  width: 100px;
+  color: red;
+}
+textarea.form-control{
+  height: 120px !important;
+}
