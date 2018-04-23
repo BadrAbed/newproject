@@ -60,7 +60,7 @@
       </td>
     </tr>
     @endforeach
-
+<br></br>
   </tbody>
 </table>
 <div class="paginations col-lg-12" >
